@@ -9,3 +9,4 @@ venv/*
 text_chunks_and_embeddings_df.csv
 human-nutrition-text.pdf
 *.pdf
+*.npy
